@@ -1,3 +1,5 @@
+package lista_2;
+
 public class Exerc1 {
     public static void main(String[] args) {
         double valor1 = Math.pow(-3.0 / 4.0, -2);

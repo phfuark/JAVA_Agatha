@@ -1,3 +1,5 @@
+package lista_1;
+
 import java.util.Scanner;
 
 public class Exerc5 {
